@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/CJZToolKits.h</key>
 		<data>
-		BJAnB+vQ8tM2zQQM0uvD/rlWDCM=
+		xrpS8V6QPHad3PiUv+eawtLsJZ0=
 		</data>
-		<key>Headers/CJZToolKitsManage.h</key>
+		<key>Headers/SVProgressHUDExtManage.h</key>
 		<data>
-		b3KTkpf4bJUiMsnpxvrcdWbr7g4=
+		scAqfJk+wrzXM/vL6xlQjtzEwjY=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -59,22 +59,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BJAnB+vQ8tM2zQQM0uvD/rlWDCM=
+			xrpS8V6QPHad3PiUv+eawtLsJZ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			+2R/FPVHt6R0ZY1/JvrRu1T4efVJqbiCG3LF9AyGRcA=
+			r7m3QTOICvOte72P4nnF4RZiZtMI5p8QBUuF8doDgCc=
 			</data>
 		</dict>
-		<key>Headers/CJZToolKitsManage.h</key>
+		<key>Headers/SVProgressHUDExtManage.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			b3KTkpf4bJUiMsnpxvrcdWbr7g4=
+			scAqfJk+wrzXM/vL6xlQjtzEwjY=
 			</data>
 			<key>hash2</key>
 			<data>
-			KpAkq0mh5+4FaLbkNc8kqdwK7hClk4jc3gl+I09zR/g=
+			a2BDnTKBF9UndThmlrmfsdKaMGvHb4rnnmamuB3pLL8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
