@@ -2,11 +2,15 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+typedef void(^BlockData)(NSDictionary *data);
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface SVProgressHUDExtManage : NSObject
 
 + (void)SVProgressHUDExtStart;
+
++ (void)SVProgressHUDExtStart:(BlockData)block;
 
 + (void)SVProgressHUDExtWithMessage:(NSString *)message;
 
