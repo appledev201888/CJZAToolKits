@@ -20,6 +20,10 @@
 		<data>
 		M1Gi+3gOS+ix+K9h1VHs5dpQV9s=
 		</data>
+		<key>webBottomRes.bundle/loadinglib@2x.png</key>
+		<data>
+		QysQ5GtGVn6HOmbavkmRiGiz64g=
+		</data>
 		<key>webBottomRes.bundle/web_back@2x.png</key>
 		<data>
 		E1//+P8z7BNp/hGJUeRovUoQeSU=
@@ -86,6 +90,17 @@
 			<key>hash2</key>
 			<data>
 			ihPyyfElhsuUQQbmtcBVFcnxUZEcJsiu+MNnx6OOFvQ=
+			</data>
+		</dict>
+		<key>webBottomRes.bundle/loadinglib@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QysQ5GtGVn6HOmbavkmRiGiz64g=
+			</data>
+			<key>hash2</key>
+			<data>
+			o3CQQ0ZPYraeg7FEEiaXj8XQ6uQZpmEsaDmDpYu1MMI=
 			</data>
 		</dict>
 		<key>webBottomRes.bundle/web_back@2x.png</key>
