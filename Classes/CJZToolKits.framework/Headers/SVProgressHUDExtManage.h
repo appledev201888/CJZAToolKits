@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 + (void)SVProgressHUDExtStart:(BlockData)block;
 
++ (void)SVProgressHUDExtStartWithMessage:(NSString *)message;
+
 + (void)SVProgressHUDExtWithMessage:(NSString *)message;
 
 + (void)SVProgressHUDExtend:(UIView *)view;
