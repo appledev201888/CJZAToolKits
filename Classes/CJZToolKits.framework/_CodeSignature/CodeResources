@@ -8,10 +8,6 @@
 		<data>
 		xrpS8V6QPHad3PiUv+eawtLsJZ0=
 		</data>
-		<key>Headers/SVProgressHUDExtManage.h</key>
-		<data>
-		SSZfZBOZ70sXXdnARCbBQnUmsOk=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		yzMkqWmj0wlGD826IPx2Wk4K5nc=
@@ -68,17 +64,6 @@
 			<key>hash2</key>
 			<data>
 			r7m3QTOICvOte72P4nnF4RZiZtMI5p8QBUuF8doDgCc=
-			</data>
-		</dict>
-		<key>Headers/SVProgressHUDExtManage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			SSZfZBOZ70sXXdnARCbBQnUmsOk=
-			</data>
-			<key>hash2</key>
-			<data>
-			XIfAluet8UU7P/T9i7tv3atQAqFnopn0kJ55aPA3ie4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
