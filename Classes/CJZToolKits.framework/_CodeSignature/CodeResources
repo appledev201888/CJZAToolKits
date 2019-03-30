@@ -16,6 +16,10 @@
 		<data>
 		M1Gi+3gOS+ix+K9h1VHs5dpQV9s=
 		</data>
+		<key>SVProgressHUDExtManage.h</key>
+		<data>
+		SSZfZBOZ70sXXdnARCbBQnUmsOk=
+		</data>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
 		<data>
 		QysQ5GtGVn6HOmbavkmRiGiz64g=
@@ -75,6 +79,17 @@
 			<key>hash2</key>
 			<data>
 			ihPyyfElhsuUQQbmtcBVFcnxUZEcJsiu+MNnx6OOFvQ=
+			</data>
+		</dict>
+		<key>SVProgressHUDExtManage.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SSZfZBOZ70sXXdnARCbBQnUmsOk=
+			</data>
+			<key>hash2</key>
+			<data>
+			XIfAluet8UU7P/T9i7tv3atQAqFnopn0kJ55aPA3ie4=
 			</data>
 		</dict>
 		<key>webBottomRes.bundle/loadinglib@2x.png</key>
